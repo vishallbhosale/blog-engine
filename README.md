@@ -2,6 +2,14 @@
 
 A full-stack blog application built using **Next.js 15**, **Prisma ORM**, **PostgreSQL**, **Tailwind CSS**, and **TypeScript** as part of a Full Stack Development Internship Technical Assessment.
 
+## 🌐 Live Demo
+
+[View Live Website](https://blog-engine-lemon.vercel.app)
+
+## 💻 GitHub Repository
+
+https://github.com/vishallbhosale/blog-engine
+
 ---
 
 ## Features
